@@ -48,5 +48,5 @@ pharma-sales-insights/
 3. For SQL: import CSV into any SQL editor and run `queries/sales_analysis.sql`
 
 ## 👤 Author
-**[Your Name]** · Data Analyst  
-[LinkedIn](#) · [Portfolio](#)
+**[Shann Morisset]** · Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/smorisset888/) ·
