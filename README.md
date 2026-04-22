@@ -2,16 +2,16 @@
 
 > Regional sales tracking, product performance, and target achievement across a pharmaceutical portfolio.
 
-## 📌 Project Overview
+##  Project Overview
 A comprehensive sales analytics project examining how products and regions perform against targets — and which sales reps are driving results.
 
-## 🔍 Key Questions Answered
+##  Key Questions Answered
 - Which products are meeting (or missing) sales targets?
 - How does performance vary by region?
 - Who are the top-performing sales reps?
 - Where should management focus coaching efforts?
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 | Tool | Purpose |
 |------|---------|
 | Python 3 | Core language |
