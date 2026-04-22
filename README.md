@@ -1,4 +1,4 @@
-# 💊 Pharma Sales Performance Analysis
+#  Pharma Sales Performance Analysis
 
 > Regional sales tracking, product performance, and target achievement across a pharmaceutical portfolio.
 
@@ -36,13 +36,13 @@ pharma-sales-insights/
 └── README.md
 ```
 
-## 📊 Key Insights
+##  Key Insights
 - Product C underperforms by ~20% across all regions
 - Western region consistently outperforms targets
 - Top 2 reps account for 30% of total new customers
 - Monthly variance heatmap reveals Q3 as the most volatile period
 
-## 🚀 How to Run
+##  How to Run
 1. Clone or download this repository
 2. Open `notebooks/pharma_sales_analysis.ipynb` in Jupyter
 3. For SQL: import CSV into any SQL editor and run `queries/sales_analysis.sql`
